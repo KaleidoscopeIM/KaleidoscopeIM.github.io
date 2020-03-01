@@ -24,6 +24,9 @@
 	#mainNav.navbar-shrink .navbar-nav .nav-link.active{
 		color: #333333;
 	}
+	.myheading{
+		color: #4DC5F3;
+	}
 	.heading h1{
 		font-size: 28px;
 	}
@@ -188,5 +191,5 @@
 	.footer-distributed .footer-left{
 		text-align: center;
 	}
-	
+
 }
